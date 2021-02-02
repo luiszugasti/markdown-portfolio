@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+I like:
+- emojis :heart:
+- *markdown*
+- **github**
+- ### messy attempts at nested formatting that work
+- computers! :computer:
