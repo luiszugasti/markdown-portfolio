@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Some awesome attributes I have include that I have **two left feet** when it comes to dancing, I currently use a *black* coloured headset in my __Zoom__ calls, and that I have a plunger on my desk for some reason.
